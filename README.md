@@ -11,7 +11,7 @@ Hello everyone, my name is Simran Rahi and currently I am pursuing my Bachelor's
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simranrahi&label=Profile%20views&color=32CD32&style=flat" alt="akankushjnvku" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simranrahi&label=Profile%20views&color=32CD32&style=flat" alt="simranrahi" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
@@ -53,40 +53,7 @@ technologies to meet future requirements.</br>
 - research internships and
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
-<details>
-   <summary>📃 Resume</summary>
 
- ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
- 📖**Bachelor's of technology-< Information Technology >**
- 
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
-   📖**Senior Secondary Schooling-< Intermediate Science >**
- 
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
-   📖**Secondary Schooling**
- 
-   
-   
-   
- ## Experience
- -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
- 📆 Feb,2022 - moment\
-📍 **Youth India Foundation** - New Delhi, India
-   
- -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
-   📆 Feb,2022 - moment\
-   📍 **GirlScript Summer of Code** - Maharashtra, India
-   
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-   📆 Oct,2020 - moment\
-   📍 **Mackph.com** - Roorkee, India
-   
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
-   📆 Dec,2019 - Jun,2020\
-   📍 **Internshala** - Roorkee, India
-
-   </details>
    
 ### `💻 Languages and Tools`<img  alt="Coding" width="35" src="https://user-images.githubusercontent.com/71630336/167283646-f631f134-0457-4760-a2e8-5801d4c6a915.gif">:   
    
@@ -97,12 +64,12 @@ technologies to meet future requirements.</br>
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/akankushjnvku/account)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/akankushjnvku)
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/simranrahi/account)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/simranrahi)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ankush-kumar-06b22b191/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@ak.ankush2000)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/akankushjnvku)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/simranrahi-06b22b191/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/simranrahi)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/simranrahi)
 </p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simranrahi" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simranrahi&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranrahi&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
